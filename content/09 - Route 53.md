@@ -34,6 +34,6 @@ If your domain is registed with AWS, this is a very easy and a very free process
 - Click on **Request a certificate**.
 - Keep the radio button set to **Request a public certificate**.
 - Type in all of the domains you want covered by the certificate.
-- Don't ignore the blue banner along the top telling you that you need to take further action.
+- Don't ignore the red banner along the top telling you that you need to take further action.
 - Hit the button that says **Create records in Route 53**.
 - Hit **Create records**.
